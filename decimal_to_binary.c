@@ -1,7 +1,7 @@
 // A Program to Covert Decimal To Binary:-
 #include<stdio.h>
 int main(){
-	int n=333,b[10],i;
+	int n=10,b[10],i;
 	for(i=0;n!=0;i++){
 		b[i]=n%2;
 		n=n/2;
