@@ -10,4 +10,3 @@ int main(){
 	else
 		printf("reset\n");
 }
- 
